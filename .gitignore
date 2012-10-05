@@ -1,0 +1,11 @@
+*.iml
+.settings
+.project
+.classpath
+.history
+logs
+project/project
+project/target
+target
+tmp
+dist

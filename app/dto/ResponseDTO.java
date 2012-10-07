@@ -10,7 +10,6 @@ import models.Task;
 
 public class ResponseDTO {
 
-	private static JsonNodeFactory _nodeFactory;
 	private ObjectNode objectNode;
 	public boolean success;
 	public String message;
